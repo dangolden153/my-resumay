@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Olanrewaju Daniel",
-    "occupation": "CEO of DANGOLDEN",
-    "description": "I eat, sleep and breathe React",
+    "occupation": "I AM A SOFTWARE ENGINEER THAT: ",
+    "description": " eat, sleep and breathe React",
     "image": "danProfilePic.jpg",
     "bio": "Hello Before talking about qualifications and professional abilities, I would like to introduce myself. I am Daniel also known as Dangolden. Taking web development as a profession not only fulfills my pocket but also my heart because it has been my passion since my early teenage. I believe that people should do things in which they are good at or in which their heart lays. That’s why I chose  web development as my career because I believe I’m good at this and mas I am always honest and I am never afraid of doing hard work..",
     "contactmessage": "Get in touch with Dangolden!",
@@ -60,17 +60,23 @@
         "level": "100%"
       },
       {
-        "name": "NodeJs",
-        "level": "85%"
+        "name": "NextJs",
+        "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "React Native",
+        "level": "90%"
       },
       {
         "name": "JavaScript",
         "level": "99%"
       },
+      {
+        "name": "NodeJs",
+        "level": "85%"
+      },
+      
+      
       {
         "name": "MySql",
         "level": "60%"
@@ -80,46 +86,64 @@
         "level": "80%"
       },
       {
-        "name": "Illustrator",
-        "level": "75%"
+        "name": "Firebase",
+        "level": "85%"
       },
-      {
-        "name": "CSS",
-        "level": "100%"
-      },
+      
       {
         "name": "HTML",
         "level": "100%"
       },
       {
+        "name": "CSS",
+        "level": "100%"
+      },
+      
+      {
         "name": "Styled Component",
+        "level": "95%"
+      },
+      
+      {
+        "name": "bootstrap",
         "level": "80%"
       },
       {
-        "name": "NextJs",
+        "name": "Tailwind css",
+        "level": "80%"
+      },
+      {
+        "name": "Material ui",
+        "level": "80%"
+      },
+      {
+        "name": "Semantic ui",
+        "level": "80%"
+      },
+      {
+        "name": "UI/UX",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
         "level": "90%"
-      },
-      {
-        "name": "Firebase",
-        "level": "85%"
-      },
-      {
-        "name": "bootstrap",
-        "level": "70%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
       }
+      
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": " Video chat Application",
+        "category": "",
+        "image": "video_chat.jpg",
+        "url": "https://dan-video-chat.herokuapp.com/"
+      },
+      {
         "title": "Only fans Clone (React JS)",
         "category": "",
         "image": "onlyfans.jpg",
-        "url": "https://on1yfans.herokuapp.com/photo=onlyfans546083dfghjlhgfccghjkyj"
+        "url": "https://on1yfans.herokuapp.com"
       },
 
       {
@@ -165,6 +189,12 @@
         "category": "",
         "image": "instagram.jpg",
         "url": "http://daninstagram-clone.herokuapp.com"
+      },
+      {
+        "title": " Video chat Application",
+        "category": "",
+        "image": "video_chat.jpg",
+        "url": "https://dan-video-chat.herokuapp.com/"
       }
     ]
   },

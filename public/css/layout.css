@@ -431,9 +431,20 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { 
+   display: flex;
+   flex-grow: 1;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 36px; 
+}
+
 .portfolio-item .item-wrap {
-   background: #fff;
+   /* width: 228px;
+   height: 145px;
+   overflow: hidden;
+   background: #fff; */
    overflow: hidden;
    position: relative;
 
@@ -444,6 +455,10 @@ ul#nav li.current a { color: #F06000; }
 	transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a {
+   width: 212px;
+   height: 165px;
+    overflow: hidden;
+
    display: block;
    cursor: pointer;
 }
@@ -492,6 +507,8 @@ ul#nav li.current a { color: #F06000; }
    margin-top: -15px;
 }
 .portfolio-item .item-wrap img {
+   object-fit: cover;
+   height: 100% !important;
    vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
